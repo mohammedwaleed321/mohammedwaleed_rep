@@ -6,6 +6,7 @@ using namespace std;
 int main(){
     //make variable for number
     int num;
+    //enter number
     cout << "please enter number: ";
     cin >> num;
     //print multiplication table
@@ -26,3 +27,4 @@ int main(){
 
 }
 //program ended
+
