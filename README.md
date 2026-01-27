@@ -13,6 +13,7 @@
 - random chooser
 - supermarket calculator
 - countdown timer
+- to do list
 ### العاب 🎮
 - award game
 - bomb game
@@ -20,14 +21,18 @@
 - guess number game
 - punishments game
 - rock paper scissors
+- memory game
+- heads or tails game
   ### محاكاة 🏦
-- techer simulator
+- teacher simulator
 - atm simulation
 - bank
 - contact book
 - vending machine
+- login and registion system
 ### تعليم 📗
 - mini quiz in math
+- math quiz generator
 - multiplcation table
 ## الاهداف 🎯
 - تعلم اساسيات البرمجة
