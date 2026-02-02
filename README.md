@@ -34,6 +34,7 @@
 - mini quiz in math
 - math quiz generator
 - multiplcation table
+- word quiz
 ## الاهداف 🎯
 - تعلم اساسيات البرمجة
 - ان اصبح مبرمج جيد
